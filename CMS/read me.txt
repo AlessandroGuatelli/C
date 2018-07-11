@@ -1,0 +1,11 @@
+---TEXT---
+In the text file the first line corresponds to the title h1.
+In the second and the third correspond to the subtile h4 and subtile h5,
+The following lines correspond to the paragraph.
+---IMG---
+In the image file the odd lines are the image path,
+ while the even lines are the caption of the image.
+---LIST---
+With 0 you will have a numbered list while with a 1 an unumbered list
+---TABLE---
+In the table file the & divides the cells while the rows divide the rows
